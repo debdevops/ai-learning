@@ -1,0 +1,16 @@
+age,job,marital,education,balance,deposit
+58,management,married,tertiary,2143,no
+44,technician,single,secondary,29,no
+33,entrepreneur,married,secondary,2,no
+47,blue-collar,married,unknown,1506,no
+33,unknown,single,unknown,1,no
+35,management,married,tertiary,231,no
+28,management,single,tertiary,447,no
+42,entrepreneur,divorced,tertiary,2,yes
+58,retired,married,primary,121,yes
+43,technician,single,secondary,593,yes
+41,admin.,divorced,secondary,270,yes
+29,admin.,single,secondary,390,yes
+53,technician,married,secondary,6,yes
+58,technician,married,unknown,-364,no
+19,student,single,primary,40,yes
