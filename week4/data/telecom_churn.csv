@@ -1,0 +1,17 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+Female,0,Yes,No,1,No,Month-to-month,Yes,Electronic check,29.85,29.85,No
+Male,0,No,No,34,Yes,One year,No,Mailed check,56.95,1889.5,No
+Male,0,No,No,2,Yes,Month-to-month,Yes,Mailed check,53.85,108.15,Yes
+Male,0,No,No,45,No,One year,No,Bank transfer (automatic),42.3,1840.75,No
+Female,0,No,No,2,Yes,Month-to-month,Yes,Electronic check,70.7,151.65,Yes
+Female,0,No,No,8,Yes,Month-to-month,Yes,Electronic check,99.65,820.5,Yes
+Male,0,No,Yes,22,Yes,Month-to-month,Yes,Credit card (automatic),89.1,1949.4,No
+Female,0,No,No,10,No,Month-to-month,No,Mailed check,29.75,301.9,No
+Female,0,Yes,No,28,Yes,Month-to-month,Yes,Electronic check,104.8,3046.05,Yes
+Male,0,No,No,62,Yes,One year,No,Bank transfer (automatic),56.15,3487.95,No
+Male,0,Yes,Yes,13,Yes,Month-to-month,Yes,Mailed check,99.95,1237.85,Yes
+Male,0,No,No,16,Yes,Two year,No,Credit card (automatic),18.95,326.8,No
+Male,1,No,No,49,Yes,Month-to-month,Yes,Bank transfer (automatic),103.7,5036.3,Yes
+Male,0,Yes,No,72,Yes,Two year,No,Credit card (automatic),108.35,7875,No
+Female,0,Yes,Yes,72,Yes,Two year,Yes,Bank transfer (automatic),113.25,8150.15,No
+```3.  In the main `week4` folder, create a new Python file named `churn_predictor.py`.
